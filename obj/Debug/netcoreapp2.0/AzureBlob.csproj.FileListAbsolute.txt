@@ -1,0 +1,11 @@
+D:\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.0\AzureBlob.deps.json
+D:\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.0\AzureBlob.runtimeconfig.json
+D:\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.0\AzureBlob.runtimeconfig.dev.json
+D:\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.0\AzureBlob.dll
+D:\AzureBlob\AzureBlob\bin\Debug\netcoreapp2.0\AzureBlob.pdb
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.csprojAssemblyReference.cache
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.csproj.CoreCompileInputs.cache
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.AssemblyInfoInputs.cache
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.AssemblyInfo.cs
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.dll
+D:\AzureBlob\AzureBlob\obj\Debug\netcoreapp2.0\AzureBlob.pdb
